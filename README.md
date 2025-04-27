@@ -1,4 +1,21 @@
+# Análisis de Ecommerce
+**Exploración de ventas, segmentación de clientes y recomendaciones estratégicas**  
 
+[Dataset utilizado](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/data/) | [Informe completo en PDF](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/informe_analisis.pdf)
+
+## Objetivo
+Realizar un análisis integral de datos de ventas para:
+- Identificar tendencias clave y rendimiento de productos  
+- Segmentar clientes mediante modelo RFM  
+- Proponer oportunidades para incrementar facturación  
+
+## ¿Qué problemas resuelve?
+- **Identificación de tendencias** estacionales y patrones de compra  
+- **Evaluación de productos**: Best-sellers vs bajo rendimiento  
+- **Segmentación avanzada** de clientes (RFM y análisis de cohortes)  
+- **Recomendaciones accionables** basadas en datos  
+
+## Estructura del Proyecto
 ## Variables Clave
 | Variable            | Descripción                              |
 |---------------------|------------------------------------------|
