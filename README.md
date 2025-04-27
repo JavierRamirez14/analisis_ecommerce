@@ -13,7 +13,14 @@ Realizar un análisis integral de datos de ventas para:
 - **Identificación de tendencias** y patrones de compra  
 - Proporcionar una comprensión completa del **comportamiento del cliente**  
 - **Segmentación avanzada** para facilitar la personalización de estrategias de marketing  
-- **Recomendaciones accionables** basadas en datos  
+- **Recomendaciones accionables** basadas en datos
+
+## Herramientas
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Tableau
 
 ## Metodología
 ### 1. Preprocesamiento
