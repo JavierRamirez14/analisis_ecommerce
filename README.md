@@ -1,30 +1,19 @@
 # Análisis de Ecommerce
 **Exploración de ventas, segmentación de clientes y recomendaciones estratégicas**  
 
-[Dataset utilizado](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/data/) | [Informe completo en PDF](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/informe_analisis.pdf)
+[Informe completo en PDF](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/Informe Análisis Ecommerce.pdf)
 
 ## Objetivo
 Realizar un análisis integral de datos de ventas para:
+- Proponer oportunidades para incrementar facturación
 - Identificar tendencias clave y rendimiento de productos  
-- Segmentar clientes mediante modelo RFM  
-- Proponer oportunidades para incrementar facturación  
+- Segmentación de clientes  
 
 ## ¿Qué problemas resuelve?
-- **Identificación de tendencias** estacionales y patrones de compra  
-- **Evaluación de productos**: Best-sellers vs bajo rendimiento  
-- **Segmentación avanzada** de clientes (RFM y análisis de cohortes)  
+- **Identificación de tendencias** y patrones de compra  
+- Proporcionar una comprensión completa del **comportamiento del cliente**  
+- **Segmentación avanzada** para facilitar la personalización de estrategias de marketing  
 - **Recomendaciones accionables** basadas en datos  
-
-## Estructura del Proyecto
-## Variables Clave
-| Variable            | Descripción                              |
-|---------------------|------------------------------------------|
-| Order ID          | ID único de compra                       |
-| Product           | Nombre del producto                      |
-| Quantity Ordered  | Unidades compradas                       |
-| Price Each        | Precio unitario (USD)                    |
-| Order Date        | Fecha/hora de compra                     |
-| Purchase Address  | Dirección de envío                       |
 
 ## Metodología
 ### 1. Preprocesamiento
@@ -56,15 +45,10 @@ Realizar un análisis integral de datos de ventas para:
 - Gráficos de tendencias  
 - Mapas de calor geográficos  
 
-## Insights Clave
-![Segmentación RFM](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/rfm_analysis.png?raw=true)  
+## Conclusión
+Existe un gran potencial de mejora en la retención del cliente mediante estrategias estacionales y geográficas
 
-**Principales hallazgos**:  
-- **Horario pico**: 60% de ventas entre 19:00-21:00  
-- **Producto más vendido**: Cable USB (23% de ventas totales)  
-- **Zona clave**: San Francisco (35% de ingresos)  
+1. El 95% de los clientes no vuelve a realizar una compra en todo el año.2. Los mejores clientes están en San Francisco
+2. Los mejores clientes están en San Francisco
 
-## Cómo Ejecutar
-1. Clonar repositorio:
-```bash
-git clone https://github.com/JavierRamirez14/analisis_ecommerce.git
+En el [Informe completo](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/Informe Análisis Ecommerce.pdf) se detallan más las conclusiones y se proporcionan más insights valiosos.
