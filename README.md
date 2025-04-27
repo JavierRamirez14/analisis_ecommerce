@@ -1,7 +1,7 @@
 # Análisis de Ecommerce
 **Exploración de ventas, segmentación de clientes y recomendaciones estratégicas**  
 
-[Informe completo en PDF](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/Informe Análisis Ecommerce.pdf)
+[Informe completo en PDF](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/informe_analisis_ecommerce.pdf)
 
 ## Objetivo
 Realizar un análisis integral de datos de ventas para:
