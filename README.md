@@ -51,4 +51,4 @@ Existe un gran potencial de mejora en la retención del cliente mediante estrate
 1. El 95% de los clientes no vuelve a realizar una compra en todo el año.2. Los mejores clientes están en San Francisco
 2. Los mejores clientes están en San Francisco
 
-En el [Informe completo](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/Informe Análisis Ecommerce.pdf) se detallan más las conclusiones y se proporcionan más insights valiosos.
+En el [Informe completo](https://github.com/JavierRamirez14/analisis_ecommerce/blob/main/informe_analisis_ecommerce.pdf) se detallan más las conclusiones y se proporcionan más insights valiosos.
